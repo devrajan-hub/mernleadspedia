@@ -35,7 +35,7 @@ LeadsPedia in MERN
     git merge ${commit-sha}
     git stash pop
 
-    git push origin HEAD:alpha    
+    git push origin HEAD:origin/alpha    
 
 4.) Everytime - Add your changes and commit them
     <!-- Here . or all can be used to add all files. You can also add specific files/folders -->
